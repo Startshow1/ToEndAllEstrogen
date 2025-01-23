@@ -1,5 +1,5 @@
 # ToEndAllEstrogen
-A fork of the Create: Estrogen addon, better suited for the hit ToEndAllWars Minecraft Server<br>
+A recreation of the Create: Estrogen addon, better suited for the hit ToEndAllWars Minecraft Server<br>
 <br>
 **Changelog**<br>
 <br>
