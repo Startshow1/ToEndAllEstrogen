@@ -1,5 +1,5 @@
 # ToEndAllEstrogen
-A recreation of the Create: Estrogen addon, better suited for the hit ToEndAllWars Minecraft Server<br>
+A recreation of the Create: Estrogen addon created by mayaqq, better suited for the hit ToEndAllWars Minecraft Server<br>
 <br>
 **Changelog**<br>
 <br>
